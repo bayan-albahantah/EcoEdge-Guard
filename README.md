@@ -1,4 +1,4 @@
-EcoEdge-Guard
+EcoEdge-Guard:
 A smart early detection system to protect the coast and fisheries 
 
 🌟Overview
