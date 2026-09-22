@@ -11,7 +11,7 @@ Using buoys equipped with an intelligent system that has early warning predictiv
 
 3.Sending warnings: When hazards are detected Immediate urgent messages are sent to the main tasks control panel via satellite-based IoT and LoRa network.
 
-🛠️System build and components
+🛠️System build and components                                                                                                                                                                                                                                                                                                            
 Electrical components: microcontroller module (ESP32), various sensors such as:( water temperature, pH, DO, turbidity, salinity, ammonia and nitrate).
 
 Build: 316L steel is used because its specifically made for marine environments, and buoys are made with HDPE material as it is made specifically to withstand harsh conditions offshore.
