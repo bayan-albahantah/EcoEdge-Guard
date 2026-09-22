@@ -4,7 +4,7 @@ A smart early detection system to protect the coast and fisheries
 🌟Overview
 Using buoys equipped with an intelligent system that has early warning predictive technologies we will be able to monitor the waters and predict hazards in the coastal environments such as “Red Tide” and pollution before occurrence.
 
-⚙️Working principle
+⚙️Working principle                                                                                                         
 1.Information Collection : Ocean thermal readings such as pH, dissolved oxygen, salinity, turbidity, ammonia and nitrate levels are all automatically detected in real time.
 
 2.Edge Analysis : On site information is evaluated with enhanced edge AI models on integrated controllers (Microprocessors).
