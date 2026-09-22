@@ -13,7 +13,5 @@ Using buoys equipped with an intelligent system that has early warning predictiv
 
 🛠️System build and components
 Electrical components: microcontroller module (ESP32), various sensors such as:( water temperature, pH, DO, turbidity, salinity, ammonia and nitrate).
-
 Build: 316L steel is used because its specifically made for marine environments, and buoys are made with HDPE material as it is made specifically to withstand harsh conditions offshore.
-
 Enclosure and anchoring: IP68 housing to make it waterproof, secure anchors, heavy chains for mooring.
