@@ -13,10 +13,10 @@ Working Principle
 
 Hardware and Components
 
- -Microcontroller Unit: ESP32 for local processing and anomaly detection.
- -Water Quality & Coral Health Suite: Sensors measuring temperature, pH, salinity, turbidity, dissolved oxygen, chlorophyll-a, ammonia, and nitrate to monitor water safety and track conditions leading to coral bleaching.
- -Power System: Solar panels and rechargeable marine batteries for continuous operation.
- -Mechanical Build: High-density polyethylene (HDPE) buoys and 316L marine-grade stainless steel for structural strength in marine environments.
+-Microcontroller Unit: ESP32 for local processing and anomaly detection.
+-Water Quality & Coral Health Suite: Sensors measuring temperature, pH, salinity, turbidity, dissolved oxygen, chlorophyll-a, ammonia, and nitrate to monitor water safety and track conditions leading to coral bleaching.
+-Power System: Solar panels and rechargeable marine batteries for continuous operation.
+-Mechanical Build: High-density polyethylene (HDPE) buoys and 316L marine-grade stainless steel for structural strength in marine environments.
 -Protection and Mooring: IP68 waterproof housing, heavy mooring chains, and secure anchors.
 
  
